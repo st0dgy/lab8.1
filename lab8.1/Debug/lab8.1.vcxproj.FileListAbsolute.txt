@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\lab8.1\Debug\lab8.1.exe
+C:\Users\admin\source\repos\lab8.1\Debug\lab8.1.pdb

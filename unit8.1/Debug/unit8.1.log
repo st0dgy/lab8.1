@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  unit8.1.cpp
+C:\Users\admin\source\repos\unit8.1\unit8.1.cpp(15,1): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\admin\source\repos\unit8.1\unit8.1.cpp(15,15): warning C4309: инициализация: усечение константного значения
+     Создается библиотека C:\Users\admin\source\repos\lab8.1\Debug\unit8.1.lib и объект C:\Users\admin\source\repos\lab8.1\Debug\unit8.1.exp
+  unit8.1.vcxproj -> C:\Users\admin\source\repos\lab8.1\Debug\unit8.1.dll
